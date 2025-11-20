@@ -40,14 +40,17 @@ O modelo `google/gemma-2b-it` é um modelo de acesso restrito ("Gated Model"). V
 O script principal é o `agent_app.py`.
 
 Para executar o agente e carregar o modelo:
-
-```bash
+``` bash
 python agent_app.py
+```
 
-#### Atividade elaborada em grupo:
-- Gabriel Campari
-- Gabriel Henrique Imolene
-- Glenda Borges
-- Gustavo Almeida 
-- Kaue Barbi
-- Lívia Mezashi
+------------------------------------------------------------------------
+
+#### 👥 Atividade elaborada em grupo
+
+-   Gabriel Campari
+-   Gabriel Henrique Imolene
+-   Glenda Borges
+-   Gustavo Almeida
+-   Kaue Barbi
+-   Lívia Mezash
